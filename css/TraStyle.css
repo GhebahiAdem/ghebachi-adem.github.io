@@ -37,6 +37,7 @@ header p{
 
 
 }
+
 footer{
     text-align: center;
     padding: 20px;
@@ -168,12 +169,13 @@ a{
 
 /* Stylize the special checked state from the image */
 .checklist .visited {
-    text-decoration: line-through; /* Cross out the text */
-    color: green; /* Text turns green */
+    text-decoration: line-through; 
+    color: green; 
     opacity: 0.7;
 }
 
 .checklist input[type="checkbox"]:checked {
-    accent-color: green; /* Colors the checkmark itself */
+    accent-color: green;  
 }
- */
+*/
+ 
